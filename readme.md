@@ -12,7 +12,7 @@
 `https://tencent.github.io/wepy/`
 
 ##### 小程序开发文档
-`http://mp.weixin.qq.com/debug/wxadoc/dev/`
+`https://developers.weixin.qq.com/miniprogram/dev/`
 
 
 
